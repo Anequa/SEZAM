@@ -1,0 +1,2 @@
+# SEZAM
+Programy użytkowe 
