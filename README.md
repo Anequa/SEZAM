@@ -1,3 +1,3 @@
 # SEZAM
-Prog378568ramy użytkowe 
+Programy użytkowe 
 378568
