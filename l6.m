@@ -1,0 +1,9 @@
+%  freaks
+
+x=0;y=0;w=20;h=20;
+%property, value
+rectangle('Position',[x,y,w,h],...
+    'FaceColor','red',...
+    'LineWidth',2,...
+    'Curvature',[1 1]);
+axis square
